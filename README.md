@@ -30,8 +30,9 @@ Este projeto simula uma corrida de kart com múltiplos pilotos, utilizando lógi
 git clone https://github.com/cdaguiar23/dio-mario-kart.git
 
 # Entrar na pasta
-cd dio-mario-kart
+cd dio-mario-kart/src
 
 # Executar o projeto
 node index.js
+
 
