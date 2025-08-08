@@ -4,7 +4,7 @@ Projeto desenvolvido como parte do bootcamp **Meu Tudo Mobile** da [DIO](https:/
 
 ## 📋 Descrição
 
-Este projeto simula uma corrida de kart com múltiplos pilotos, utilizando lógica de programação e manipulação de dados em JavaScript. A corrida é dinâmica e cheia de surpresas, com diferentes tipos de blocos e interações entre os personagens.
+Este projeto simula uma corrida de kart com múltiplos pilotos, utilizando lógica de programação e manipulação de dados em JavaScript. Toda a lógica do jogo é executada no **terminal**, proporcionando uma experiência interativa via console. A corrida é dinâmica e cheia de surpresas, com diferentes tipos de blocos e interações entre os personagens.
 
 ## 🎮 Funcionalidades
 
@@ -34,5 +34,6 @@ cd dio-mario-kart/src
 
 # Executar o projeto
 node index.js
+
 
 
