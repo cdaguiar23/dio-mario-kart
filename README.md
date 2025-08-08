@@ -22,16 +22,16 @@ Este projeto simula uma corrida de kart com múltiplos pilotos, utilizando lógi
 
 - Node.js
 - JavaScript
-- Git & GitHub
 
 ## 📦 Como executar
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/dio-mario-kart.git
+git clone https://github.com/cdaguiar23/dio-mario-kart.git
 
 # Entrar na pasta
 cd dio-mario-kart
 
 # Executar o projeto
 node index.js
+
